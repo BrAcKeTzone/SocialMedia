@@ -1,0 +1,21 @@
+{
+  "name": "pinasocial",
+  "version": "1.0.0",
+  "description": "This is a simple social media platform.",
+  "keywords": [
+    "social",
+    "media",
+    "pinas",
+    "social"
+  ],
+  "license": "ISC",
+  "author": "John Paul Maniwang",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
